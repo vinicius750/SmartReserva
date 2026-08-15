@@ -1,1 +1,18 @@
-/venv
+# --- REACT NATIVE ---
+node_modules/
+.expo/
+android/app/build/
+android/.gradle/
+ios/Pods/
+ios/build/
+*.pkl
+
+# --- PYTHON ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+env/

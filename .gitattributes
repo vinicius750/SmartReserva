@@ -1,0 +1,6 @@
+python-api/datasets/** filter=lfs diff=lfs merge=lfs -text
+python-api/models/** filter=lfs diff=lfs merge=lfs -text
+react/assets/** filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
