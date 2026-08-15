@@ -53,3 +53,19 @@ source venv/bin/activate
 
 # Execute o serviço/API desejado (exemplo)
 uvicorn main:app --reload --port 8000
+
+```
+
+### 3. Rodando o Aplicativo (Frontend - Expo)
+
+```bash
+cd meu-app
+
+# Execute o comando
+npx expo start
+
+
+
+
+
+```
